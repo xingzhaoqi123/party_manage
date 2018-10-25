@@ -1,0 +1,89 @@
+<template>
+    <div class="xzq">
+       
+        我是首页<p>adasdasasdd</p>
+        我是首页<p>adasdasasdd</p>
+          <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+      <p>asddddddddddd</p>
+    </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>

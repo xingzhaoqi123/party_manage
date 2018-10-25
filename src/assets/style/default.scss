@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fll {
+    float: left;
+}
+
+.flr {
+    float: right;
+}
+
+.clearfix {
+    &::after {
+        display: block;
+        clear: both;
+        content: "";
+        visibility: hidden;
+        height: 0;
+    }
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.el-card {
+   min-height: calc(100vh - 150px);
+   overflow-y: scroll;
+}
