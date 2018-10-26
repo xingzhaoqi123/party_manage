@@ -1,89 +1,13 @@
 <template>
-    <div class="xzq">
-       
+    <el-card>
         我是首页<p>adasdasasdd</p>
         我是首页<p>adasdasasdd</p>
-          <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-      <p>asddddddddddd</p>
-    </div>
+    </el-card>
 </template>
 
 <script>
-export default {
-
-}
+export default {};
 </script>
 
 <style>
-
 </style>

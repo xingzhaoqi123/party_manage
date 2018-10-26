@@ -18,8 +18,8 @@
                 </el-table-column>
                 <el-table-column label="操作">
                     <template slot-scope="scope">
-                        <el-button size="mini" type="primary">编辑</el-button>
-                        <el-button size="mini" type="danger">删除</el-button>
+                        <el-button size="mini" type="primary"@click="$router.push({path:'news_add',query:{id:scope.row._id}})">编辑</el-button>
+                        <el-button size="mini" type="danger" @click="remove(scope.row._id)">删除</el-button>
                     </template>
                 </el-table-column>
             </el-table>
@@ -35,6 +35,14 @@ export default {
         };
     },
     methods: {
+           remove(id) {
+            this.$axios.delete(`/admin/news/${id}`).then(res => {
+                if (res.code == 200) {
+                    this.$message.success(res.msg);
+                    this.getNews();
+                }
+            });
+        },
         getNews() {
             this.$axios.get("/admin/news/all").then(res => {
                 if (res.code == 200) {

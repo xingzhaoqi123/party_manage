@@ -48,5 +48,11 @@ class fetch {
   static post(url, data, config) {
     return this.axios(url, data, config, "post");
   }
+  static delete(url, data, config) {
+    return this.axios(url, data, config, "delete");
+  }
+  static put(url, data, config) {
+    return this.axios(url, data, config, "put");
+  }
 }
 export default fetch;
